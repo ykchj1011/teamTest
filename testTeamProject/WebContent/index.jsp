@@ -20,6 +20,7 @@
 	<button onclick="location.href='today'">오늘의정보</button>
 	
 	<button onclick="location.href='dudgus1'">영현 수정</button>
+	<button onclick="location.href='dudgus2'">영현 수정2</button>
 
 	
 </body>
