@@ -12,6 +12,7 @@
 	<h3>Make Push Button</h3>
 	
 	<button onclick="location.href='gwan'">뭘까용</button>
+	<button onclick="location.href='gwan2'">요건 추가버튼이에여</button>
 	
 </body>
 </html>
