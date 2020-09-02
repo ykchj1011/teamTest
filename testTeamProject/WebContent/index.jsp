@@ -13,5 +13,7 @@
 	
 	<button onclick="location.href='gwan1'">수정된 버튼!</button>
 	
+	<button onclick="location.href='today'">오늘의정보</button>
+	
 </body>
 </html>
