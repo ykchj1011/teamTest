@@ -18,6 +18,8 @@
 	<button onclick="location.href='gwan1'">수정된 버튼!</button>
 	<button onclick="location.href='gwan2'">요건 추가버튼이에여</button>
 	<button onclick="location.href='today'">오늘의정보</button>
+	
+	<button onclick="location.href='dudgus1'">영현 수정</button>
 
 	
 </body>

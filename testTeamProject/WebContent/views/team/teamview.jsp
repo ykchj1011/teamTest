@@ -13,6 +13,6 @@
   <h1>${ today }</h1>
 	<h1> ${ team } </h1>
 	<!-- 영현이형 자리 -->
-	<h1> </h1>
+	<h1>${ gjdudgus1 }</h1>
 </body>
 </html>
