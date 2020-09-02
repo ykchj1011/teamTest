@@ -26,8 +26,8 @@ public class TestTeamServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		request.setAttribute("today", "오늘은 비오는 수요일 입니다.");
-		request.getRequestDispatcher("views/team/today.jsp").forward(request, response);
+		request.setAttribute("today", "오늘은 비오는 수요일 입니다!");
+		request.getRequestDispatcher("views/team/teamview.jsp").forward(request, response);
 	}
 
 	/**
