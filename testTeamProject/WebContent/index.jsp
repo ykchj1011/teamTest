@@ -13,7 +13,7 @@
 	
 	<button onclick="location.href='gwan'">뭘까용</button>
 	
-	<button onclick="location.href='today'">오늘의 정보</button>
+	<button onclick="location.href='today'">오늘의정보</button>
 	
 </body>
 </html>
